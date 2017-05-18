@@ -1,0 +1,14 @@
+﻿Сборка начата 19.05.2017 1:53:04.
+     1>Проект "C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\binarytree\binarytree.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\binarytree.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt binarytree.cpp
+         binarytree.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\Debug\binarytree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\Debug\binarytree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\Debug\binarytree.lib" /MACHINE:X86 Debug\binarytree.obj
+         Debug\stdafx.obj
+         binarytree.vcxproj -> C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\Debug\binarytree.exe
+     1>Сборка проекта "C:\Users\plugins.by\documents\visual studio 2013\Projects\derevce\binarytree\binarytree\binarytree.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.58
